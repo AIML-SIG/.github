@@ -1,8 +1,4 @@
-AIML-SIG is a special interest group (SIG) under the International Society of Pharmacometrics (ISoP).
-
-Website: https://www.isop.org/special-interest-groups/aiml-sig
-
-## Purpose
+## Our Purpose
 
 Foster rigorous, reproducible, and translational AI approaches in pharmacometrics—with a strong AI focus across QSP, PBPK, and PK/PD—that directly impact patient care, regulatory science, or therapeutic innovation. We welcome contributions to AI methodologies, best practices, and innovations across industry, academia, and  regulatory bodies.
 
@@ -12,4 +8,4 @@ Code for workshops and webinars (when applicable) will be made publicly availabl
 
 ## Upcoming events
 
-- Satellite meeting at PAGE 2026 meeting — 2026-06-02
+- June 2, 2026: Satellite meeting at PAGE 2026 meeting "A Glimpse into AI/ML Applications for Pharmacometrics"
