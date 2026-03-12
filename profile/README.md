@@ -1,5 +1,3 @@
-# AIML-SIG
-
 AIML-SIG is a special interest group (SIG) under the International Society of Pharmacometrics (ISoP).
 
 Website: https://www.isop.org/special-interest-groups/aiml-sig
