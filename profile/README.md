@@ -8,4 +8,4 @@ Code for workshops and webinars (when applicable) will be made publicly availabl
 
 ## Upcoming events
 
-- June 2, 2026: Satellite meeting at PAGE 2026 meeting "A Glimpse into AI/ML Applications for Pharmacometrics"
+- June 2, 2026: Satellite meeting at PAGE 2026 meeting "AI/ML in Pharmacometrics: Hands-on Workshop and Regulatory Panel"
