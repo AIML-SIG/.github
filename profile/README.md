@@ -8,4 +8,6 @@ Code for workshops and webinars (when applicable) will be made publicly availabl
 
 ## Upcoming events
 
-- June 2, 2026: Satellite meeting at PAGE 2026 meeting "AI/ML in Pharmacometrics: Hands-on Workshop and Regulatory Panel"
+* **June 2, 2026:** [AI/ML in Pharmacometrics: Hands-on Workshop and Regulatory Panel](https://aiml-sig.github.io/2026-page-workshop/)  
+  *Satellite meeting at PAGE 2026 (Dubrovnik, Croatia).*  
+  This workshop covers GenAI for coding, Neural ODEs, and Explainable AI (XAI) using R and Julia, followed by a regulatory-industry panel. 
