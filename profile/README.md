@@ -4,7 +4,7 @@ Foster rigorous, reproducible, and translational AI approaches in pharmacometric
 
 ## What can you find here?
 
-- Discussion forum and workspace for each working group (WG), currently we have two: Agentic Workflows WG and Benchmark Datasets WG
+- Discussion forum and workspace for each working group, currently: [Agentic Workflows](https://github.com/AIML-SIG/Agentic-workflows) and [Benchmark Datasets](https://github.com/AIML-SIG/Benchmark-datasets)
 - Code for workshops and webinars (when applicable) will be made publicly available in this GitHub organization, typically in dedicated repositories per event.
 
 ## Upcoming events
