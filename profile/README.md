@@ -4,7 +4,8 @@ Foster rigorous, reproducible, and translational AI approaches in pharmacometric
 
 ## What can you find here?
 
-Code for workshops and webinars (when applicable) will be made publicly available in this GitHub organization, typically in dedicated repositories per event.
+- Discussion forum and workspace for each working group (WG), currently we have two: Agentic Workflows WG and Benchmark Datasets WG
+- Code for workshops and webinars (when applicable) will be made publicly available in this GitHub organization, typically in dedicated repositories per event.
 
 ## Upcoming events
 
